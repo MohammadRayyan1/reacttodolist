@@ -11,16 +11,16 @@ Features:
 Project Structure:-
 
 todo-list-app/
-│── public/                 
-│── src/                    
-│   ├── components/         
-│   │   ├── AddTaskForm.js  
-│   │   ├── ToDoItem.js     
-│   ├── App.js              
-│   ├── index.js            
-│   ├── App.css            
-│── package.json            
-│── README.md     
+public/                 
+src/                    
+ components/         
+    AddTaskForm.js  
+    ToDoItem.js     
+App.js              
+index.js            
+App.css            
+package.json            
+README.md     
 
 Technologies Used:- 
 
